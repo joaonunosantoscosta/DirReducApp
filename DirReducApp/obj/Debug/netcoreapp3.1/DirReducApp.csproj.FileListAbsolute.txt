@@ -8,3 +8,4 @@ C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducAp
 C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.AssemblyInfo.cs
 C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.dll
 C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.pdb
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.csprojAssemblyReference.cache
