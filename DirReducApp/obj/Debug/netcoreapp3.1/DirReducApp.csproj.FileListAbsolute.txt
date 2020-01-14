@@ -1,0 +1,10 @@
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\bin\Debug\netcoreapp3.1\DirReducApp.exe
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\bin\Debug\netcoreapp3.1\DirReducApp.deps.json
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\bin\Debug\netcoreapp3.1\DirReducApp.runtimeconfig.json
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\bin\Debug\netcoreapp3.1\DirReducApp.runtimeconfig.dev.json
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\bin\Debug\netcoreapp3.1\DirReducApp.dll
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\bin\Debug\netcoreapp3.1\DirReducApp.pdb
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.AssemblyInfoInputs.cache
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.AssemblyInfo.cs
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.dll
+C:\Users\joacost\Desktop\to_diogo\DirReducApp\obj\Debug\netcoreapp3.1\DirReducApp.pdb
