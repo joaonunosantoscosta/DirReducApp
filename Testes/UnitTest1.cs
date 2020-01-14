@@ -14,7 +14,7 @@ namespace Testest
             string[] array = new string[] { "NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST" };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             Assert.Equal(expected, result);
         }
@@ -27,7 +27,7 @@ namespace Testest
             string[] array = new string[] { "NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST", "NORTH", "NORTH", "N", "N" };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             Assert.Equal(expected, result);
         }
@@ -39,7 +39,7 @@ namespace Testest
             string[] array = new string[] { "NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST", "NORTH", "NORTH", "N", "N", "SOUTH", "SOUTH", "EAST", "EAST" };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             Assert.Equal(expected, result);
         }
@@ -52,7 +52,7 @@ namespace Testest
             string[] array = new string[] { };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             Assert.Equal(expected, result);
         }
@@ -65,7 +65,7 @@ namespace Testest
             string[] array = null;
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             Assert.Equal(expected, result);
         }
@@ -78,7 +78,7 @@ namespace Testest
             string[] array = new string[] { "Hello" };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             Assert.Equal(expected, result);
         }
@@ -90,7 +90,7 @@ namespace Testest
             string[] array = new string[] { "NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST" };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             string stringResult = StringConstruction.getString(result);
 
@@ -104,7 +104,7 @@ namespace Testest
             string[] array = new string[] { };
 
             Directions d = new Directions();
-            string[] result = d.DirReduc(array);
+            string[] result = d.DirReduc_versionClojure(array);
 
             string stringResult = StringConstruction.getString(result);
 
